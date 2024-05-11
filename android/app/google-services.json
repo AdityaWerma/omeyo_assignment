@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27041997167",
+    "project_id": "omeyoassignment",
+    "storage_bucket": "omeyoassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27041997167:android:5387b40b61c4946936489a",
+        "android_client_info": {
+          "package_name": "com.example.omeyo_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOs5sw1DW2CT4qVBw5LIgvGKZSDZ3AzNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

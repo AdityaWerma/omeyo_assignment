@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyApq9y28i4QdWFpFnhejsCvFgJ73GOOJLQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>27041997167</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.omeyoAssignment.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>omeyoassignment</string>
+	<key>STORAGE_BUCKET</key>
+	<string>omeyoassignment.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:27041997167:ios:14a1e014b38e58eb36489a</string>
+</dict>
+</plist>
